@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1PhZt6QLTGNbbhz8v-Tf4ByFO-Z3umDlU?usp=sh
 https://public.tableau.com/app/profile/bonfils.kamanda/viz/Kamanda_Amalitech_LastMileLogisticsAuditor/Dashboard1?publish=yes
 
 **Presentation (Google Slides):**  
-https://docs.google.com/presentation/d/1jpatM3dpC1u5FJyfTJpVPLGNjJRRpWQADWBtWKgyjSQ/edit?usp=sharing
+https://docs.google.com/presentation/d/1miKPhkiQWLq36qDD-QB2bygNlXhdU_N1i58cvwF9K6s/edit?usp=sharing
 
 
 ---

@@ -137,10 +137,10 @@ Story 6 – Candidate Choice)
 # Repository Structure
 
 ```
-Last-Mile-Logistics-Auditor/
+last-mile-logistics-auditor/
 │
+├── Last_Mile_Logistics_Auditor Colab.pdf
 ├── Last_Mile_Logistics_Auditor.ipynb
-├── Last_Mile_Logistics_Auditor.html
 ├── README.md
 
 ```

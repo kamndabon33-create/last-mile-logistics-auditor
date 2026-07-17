@@ -12,7 +12,7 @@ This project analyzes delivery performance using the Olist Brazilian E-Commerce 
 https://colab.research.google.com/drive/1PhZt6QLTGNbbhz8v-Tf4ByFO-Z3umDlU?usp=sharing
 
 **Tableau Dashboard:**  
-https://public.tableau.com/app/profile/bonfils.kamanda/viz/Kamanda_Amalitech_LastMileLogisticsAuditor/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/bonfils.kamanda/viz/Kamanda_Amalitech_LastMile_Logistics_Auditor/Dashboard1?publish=yes
 
 **Presentation (Google Slides):**  
 https://docs.google.com/presentation/d/1miKPhkiQWLq36qDD-QB2bygNlXhdU_N1i58cvwF9K6s/edit?usp=sharing
